@@ -33,7 +33,7 @@
 
 #
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thdevtrader&show_icons=true&theme=dark)](https://github.com/thdevtrader/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thdevtrader&layout=compact&theme=dark)](https://github.com/thdevtrader/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thdevtrader&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thdevtrader&layout=compact&theme=dark)
 
 <!--
 **ThDevTrader/ThDevTrader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
