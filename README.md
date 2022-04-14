@@ -8,7 +8,7 @@
 - 📫 Contate-me via Linkedin: https://www.linkedin.com/in/thdevtrader/ ou por email: thdevtrader@gmail.com
 - ⚡ Visite meu repositório: 
 
-## ⭐️  Technologies Aprendidas  ⭐️
+## ⭐️  Technologias Aprendidas  ⭐️
 <a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
