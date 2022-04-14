@@ -1,4 +1,13 @@
-### Hi there 👋
+### Olá! Seja bem vindo ao meu GitHub!
+
+
+- 🔭 Estudante em busca de colocação profissional. Me achava um possível bom FrontEnd mas acabei seduzido pela magia do Backend.
+- 👯 Motivado e sedento por aprendizado, sou apaixonado por Mercado Financeiro e Desenvolvimento Web.
+- 🌱 Estudante de Desenvolvimento Web FullStack na Trybe
+- 💬 Migrando de área e muito empolgado com o poder de desenvolver ambientes Web
+- 📫 Contate-me via Linkedin: https://www.linkedin.com/in/thdevtrader/ ou por email: thdevtrader@gmail.com
+- ⚡ Visite meu repositório: 
+
 
 <!--
 **ThDevTrader/ThDevTrader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
