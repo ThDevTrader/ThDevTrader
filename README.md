@@ -8,6 +8,8 @@
 - 📫 Contate-me via Linkedin: https://www.linkedin.com/in/thdevtrader/ ou por email: thdevtrader@gmail.com
 - ⚡ Visite meu repositório: 
 
+#
+
 ## ⭐️  Technologias Aprendidas  ⭐️
 <a href="https://git-scm.com/"><img height= "35" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
 <a href="https://code.visualstudio.com/"><img height= "35" src= "https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
@@ -29,6 +31,9 @@
 ## 📖  Algumas que pretendo aprender durante minha carreira  📖
 <a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
 
+#
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thdevtrader&show_icons=true&theme=dark)](https://github.com/thdevtrader/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thdevtrader&layout=compact&theme=dark)](https://github.com/thdevtrader/github-readme-stats)
 
 <!--
 **ThDevTrader/ThDevTrader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
