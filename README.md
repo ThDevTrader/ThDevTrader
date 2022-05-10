@@ -29,6 +29,8 @@
 <a href="https://www.javascript.com/"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
 <a href="https://reactjs.org/"><img height= "35" src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href="https://nodejs.org/en/"><img height= "35" src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></a>
+<a href="https://www.npmjs.com/"><img height= "35" src= "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>
+<a href="https://www.json.org/json-en.html"><img height= "35" src= "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></a>
 <a href="https://www.mysql.com/"><img height= "35" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="https://www.docker.com/"><img height= "35" src= "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/REST"><img height= "35" src= "https://img.shields.io/badge/REST-7ab495?style=for-the-badge&logo=rest&logoColor=white"></a>
@@ -67,7 +69,7 @@
 
 #
 <!-- 
-## ⚙️  Habilidades quero explorar ⚙️
+## ⚙️  Habilidades que quero desenvolver ⚙️
 
 <a href="https://pt.wikipedia.org/wiki/Lideran%C3%A7a"><img height= "35" src= "https://img.shields.io/badge/Desenvolvimento Mobile-dbd0b2?style=for-the-badge&logo=scrum&logoColor=4FC08D"></a>
 <a href="https://pt.wikipedia.org/wiki/Lideran%C3%A7a"><img height= "35" src= "https://img.shields.io/badge/Product Owner-dbd0b2?style=for-the-badge&logo=scrum&logoColor=4FC08D"></a>
@@ -76,8 +78,14 @@
 
 # -->
 
-## ⚡  Estatísticas do meu GitHub  ⚡
+## 📊  Estatísticas do meu GitHub  📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thdevtrader&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thdevtrader&layout=compact&theme=dark)
+
+#
+
+## 👇🏻  Entre em contato comigo  👇🏻
+<a href="mailto:thdevtrader@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/thdevtrader"><img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <!--
 **ThDevTrader/ThDevTrader** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
