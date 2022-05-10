@@ -1,4 +1,6 @@
-## 🚀 Boas vindas ao meu GitHub!
+#
+
+## ⚠️ Boas vindas ao meu GitHub! 🚀
 
 
 - 🔭 Estudante de Desenvolvimento Web FullStack na Trybe desde junho de 2021.
@@ -44,12 +46,12 @@
 <a href="https://www.typescriptlang.org/"><img height= "35" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="https://www.java.com/"><img height= "35" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
 <a href="https://www.eclipse.org/"><img height= "35" src= "https://img.shields.io/badge/Eclipse-040054?style=for-the-badge&logo=eclipse&logoColor=white"></a>
-
-
-#####  ...aprendidas até o fim do curso  📖
 <a href="https://www.mongodb.com/"><img height= "35" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+
+<!-- #####  ...aprendidas até o fim do curso  📖
+
 <a href="https://vuejs.org/"><img height= "35" src= "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>
-<a href="https://www.python.org/"><img height= "35" src= "https://img.shields.io/badge/Python-ffd343?style=for-the-badge&logo=python&logoColor=244e71"></a>
+<a href="https://www.python.org/"><img height= "35" src= "https://img.shields.io/badge/Python-ffd343?style=for-the-badge&logo=python&logoColor=244e71"></a> -->
 
 #
 
@@ -83,7 +85,7 @@
 
 #
 
-## 👇🏻  Entre em contato comigo  👇🏻
+## 👇🏻  Contate-me aqui  👇🏻
 <a href="mailto:thdevtrader@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/thdevtrader"><img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
