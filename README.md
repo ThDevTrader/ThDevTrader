@@ -34,19 +34,19 @@
 #
 
 ## 🤹  Outras Habilidades  🤹
-###### --  BANCO DE DADOS  --
+###### --  DATABASE --
 
 <a href="https://www.mysql.com/"><img height= "35" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="https://www.mongodb.com/"><img height= "35" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 
-###### --  MONITORAMENTO DE APPS  --
+###### --  ANALYTICS  --
 
 <a href="https://www.elastic.co/pt/kibana"><img height= "35" src= "https://img.shields.io/badge/Kibana-0faebd?style=for-the-badge&logo=kibana&logoColor=4FC08D"></a>
 <a href="https://grafana.com/"><img height= "35" src= "https://img.shields.io/badge/Grafana-e8d823?style=for-the-badge&logo=grafana&logoColor=4FC08D"></a>
 <a href="https://www.datadoghq.com/"><img height= "35" src= "https://img.shields.io/badge/Datadog-c6c6c6?style=for-the-badge&logo=datadog&logoColor=white"></a>
 
 
-###### --  METODOLOGIAS ÁGEIS  --
+###### --  AGILE SOFTWARE DEVELOPMENT  --
 
 <a href="https://en.wikipedia.org/wiki/Scrum_(software_development)"><img height= "35" src= "https://img.shields.io/badge/Scrum-e8d823?style=for-the-badge&logo=scrum&logoColor=4FC08D"></a>
 <a href="https://en.wikipedia.org/wiki/Kanban_(development)"><img height= "35" src= "https://img.shields.io/badge/Kanban-c71c99?style=for-the-badge&logo=kanban&logoColor=4FC08D"></a>
